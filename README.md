@@ -8,4 +8,4 @@ Faça o download dessa pasta, abra as extensões do Google e ative o modo desenv
 
 Faça o teste no seguinte link:
 
-`https://exame.abril.com.br/estilo-de-vida/coronavirus-o-que-fazer-se-esta-com-viagem-marcada-para-europa-e-asia/?__twitter_impression=true`
+https://exame.abril.com.br/estilo-de-vida/coronavirus-o-que-fazer-se-esta-com-viagem-marcada-para-europa-e-asia
