@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "author": "Davi Ramos Faustino",
+  "name" : "Exame Free",
+  "version" : "0.1.0",
+  "description": "Revista Exame livre para todos",
+  "content_scripts": [
+    {
+      "run_at": "document_end",
+      "matches": ["*://*.abril.com.br/*"],
+      "js": ["script.js"]
+    }
+  ]
+}
